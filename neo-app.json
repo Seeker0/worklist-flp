@@ -7,22 +7,22 @@
         "type": "service",
         "name": "sapui5",
         "entryPath": "/resources",
-        "version": "1.44.6"
+        "version": "1.60.2"
       },
       "description": "SAPUI5 Resources"
     },
     {
-      "path": "/test-resources",
+      "path": "/test",
       "target": {
         "type": "service",
         "name": "sapui5",
-        "entryPath": "/test-resources",
-        "version": "1.44.6"
+        "entryPath": "/test",
+        "version": "1.60.2"
       },
       "description": "SAPUI5 Test Resources"
     },
     {
-      "path": "/sap/opu/odata",
+      "path": "/sap/opu/odata/sap/ZPROSPECT_V_SRV/",
       "target": {
         "type": "destination",
         "name": "Konica_UD1_110",
